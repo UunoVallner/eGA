@@ -1,2 +1,2 @@
 # eGA
-Repositury of eGovernance Academy
+Repository of eGovernance Academy
